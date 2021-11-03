@@ -4,7 +4,8 @@ function App() {
   return (
     <div>
          proekt maktab  
-         Mirzohid 
+         Mirzohid  && Bekzod
+
     </div>
   )
 }
