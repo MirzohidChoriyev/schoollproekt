@@ -5,6 +5,7 @@ function App() {
     <div>
          proekt maktab  
          Mirzohid  && Bekzod
+         <h1>Lets go</h1>
 
     </div>
   )
