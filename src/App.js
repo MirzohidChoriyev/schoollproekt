@@ -9,14 +9,7 @@ import SchoolLive from './Components/MaktabHayoti/SchoolLive'
 import Contact from './Components/Contact/Contact'
 import Darsliklar from './Components/Darsliklar/Darsliklar'
 
-<<<<<<< HEAD
-function App() {
-  return (
-    <div>
-    </div>
-  )
-}
-=======
+
 export default class App extends Component {
 
   render() {
@@ -36,8 +29,6 @@ export default class App extends Component {
                     <Footer/>
                   </Route>
           </Switch>
->>>>>>> d1e9418918f2c13cdb1f3d1ccc6697a68a57ad14
-
       </div>
     )
   }
